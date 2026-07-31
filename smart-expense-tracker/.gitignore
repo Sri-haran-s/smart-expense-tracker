@@ -1,0 +1,7 @@
+target/
+*.class
+.idea/
+*.iml
+.vscode/
+expenses.json
+.DS_Store
